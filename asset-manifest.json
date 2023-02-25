@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.054e4dcb.css",
+    "main.js": "/static/js/main.12452b36.js",
+    "static/media/wave.jpg": "/static/media/wave.eb3933d7cdba7c26704f.jpg",
+    "static/media/highway.jpeg": "/static/media/highway.4d3c3f3a2074e2ce9e55.jpeg",
+    "static/media/city.png": "/static/media/city.1037b928c451d07b83f6.png",
+    "static/media/cow.jpg": "/static/media/cow.867636b8490fb668fb78.jpg",
+    "static/media/bridge.jpg": "/static/media/bridge.d28de36944a50b9b11e7.jpg",
+    "index.html": "/index.html",
+    "main.054e4dcb.css.map": "/static/css/main.054e4dcb.css.map",
+    "main.12452b36.js.map": "/static/js/main.12452b36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.054e4dcb.css",
+    "static/js/main.12452b36.js"
+  ]
+}
